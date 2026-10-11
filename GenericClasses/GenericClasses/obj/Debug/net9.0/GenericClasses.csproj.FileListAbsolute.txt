@@ -1,0 +1,15 @@
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/bin/Debug/net9.0/GenericClasses
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/bin/Debug/net9.0/GenericClasses.deps.json
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/bin/Debug/net9.0/GenericClasses.runtimeconfig.json
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/bin/Debug/net9.0/GenericClasses.dll
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/bin/Debug/net9.0/GenericClasses.pdb
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.AssemblyInfo.cs
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.sourcelink.json
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.dll
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/refint/GenericClasses.dll
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.pdb
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/GenericClasses.genruntimeconfig.cache
+/Users/mac/RiderProjects/advanced_csharp/GenericClasses/GenericClasses/obj/Debug/net9.0/ref/GenericClasses.dll
